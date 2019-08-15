@@ -15,9 +15,7 @@ public class oob extends AppCompatActivity {
         Toast.makeText(getApplicationContext(),"OOB message detected!",Toast.LENGTH_SHORT).show();
         Bundle extras = getIntent().getExtras();
         String oob;
-        if(extras == null) {
-            oob = null;
-        } else {
+        if(extras != null) {
             oob = extras.getString("OOB");
             TextView text = (TextView) findViewById(R.id.textView);
             text.setMovementMethod(new ScrollingMovementMethod());
