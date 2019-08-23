@@ -6,7 +6,7 @@ in the form of a URL.
 
 Contiki-ng and EAP-NOOB project: https://github.com/eduingles/coap-eap-noob.
 
-Uses oob_led.c transmitter, e.e., the repeating transmitter.
+Uses oob_led.c transmitter, the repeating transmitter.
 
 
 # Screen capture
