@@ -9,7 +9,7 @@ Uses oob_led.c transmitter
 
 
 # Screen capture
-![App Screenshot](Screenshot_repeated.png)
+![App Screenshot](Screenshot_repeating.png)
 
 
 Licensing
