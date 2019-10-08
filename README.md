@@ -45,3 +45,7 @@ Installation using Android Studio
 1. Configure OpenCV for Android.
 2. Once you have OpenCV working, replace the contents of colorblobdetect sample folder with these files.
 
+Installation with Android application package
+---------
+1. Transfer the apk to your phone.
+2. Run the apk.
